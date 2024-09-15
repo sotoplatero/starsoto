@@ -9,6 +9,7 @@
 - 📦 **Database**  - using [Turso](https://turso.tech)
 - 🌐 **SEO** - Simple component using 
 - ✉️ **Contact Page** - [web3form](https://web3forms.com/)
+- 🖼️ **Optimize Image** - [Images Kit](https://kit.svelte.dev/docs/images)
 
 ## Local Development
 
