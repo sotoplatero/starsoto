@@ -1,8 +1,9 @@
+import { OPENAI_API_KEY } from "$env/static/private";
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 
 export async function chat(input, system) {
-    
+
     const response = await openai.chat.completions.create({
       model: 'gpt-4o-mini',
       messages: [
