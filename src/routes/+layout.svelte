@@ -3,7 +3,9 @@
   import Footer from "../lib/components/Footer.svelte";
   import "../app.css";
 </script>
-  
-<Header/>
-<slot />
-<Footer/>
+
+<div class="w-full max-w-screen-lg mx-auto px-4">
+  <Header/>
+  <slot />
+  <Footer/>
+</div>

@@ -7,9 +7,10 @@
 - 😊 **Lucide Icons** 
 - 🪄 **OpenAI** - Starter lib
 - 📦 **Database**  - using [Turso](https://turso.tech)
-- 🌐 **SEO** - Simple component using 
+- 🌐 **SEO** - Simple component
 - ✉️ **Contact Page** - [web3form](https://web3forms.com/)
 - 🖼️ **Optimize Image** - [Images Kit](https://kit.svelte.dev/docs/images)
+- 🚫 **Error Page** [Error page](https://kit.svelte.dev/docs/routing#error)
 
 ## Local Development
 
